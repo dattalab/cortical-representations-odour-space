@@ -1,0 +1,6 @@
+.DS_Store
+*.egg-info/
+*.h5
+notebooks/.ipynb_checkpoints/*
+*.pyc
+__pycache__/
