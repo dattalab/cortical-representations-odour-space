@@ -19,7 +19,7 @@ For more details, please see our manuscript [here](https://doi.org/10.1038/s4158
 ## Requirements
 1. Make a new conda env, e.g. `conda create -n piriform python=3.8`
 2. Activate that env `conda activate piriform`.
-3. Clone and enter this repo: `git clone git@github.com:dattalab/cortical-respresentations-odour-space.git && cd cortical-respresentations-odour-space`
+3. Clone and enter this repo: `git clone git@github.com:dattalab/cortical-representations-odour-space.git && cd cortical-representations-odour-space`
 4. To install the specific versions of packages used when testing the scripts in this repo you can do `pip install -r requirements.txt`. Alternatively, the minimal requirements for running the scripts and notebooks in this repo are:
 ```
 pip install seaborn scikit-learn h5py tables
